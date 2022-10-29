@@ -12,12 +12,7 @@ document.querySelector('input[type=submit]')
 
        
        
-    /*
-     <div class="lista-produto-single">
-            <h3>Redbull</h3>
-            <h3 class="price-produto"><span>$20.00</span></h3>
-        </div>
-    */
+    
     let listaProdutos = document.querySelector('.lista-produtos');
     let soma = 0;
     listaProdutos.innerHTML = "";
